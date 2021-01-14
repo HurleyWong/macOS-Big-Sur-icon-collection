@@ -37,7 +37,7 @@
 - [x] Android_Studio
 - [x] Anki
 - [x] AnyTrans
-- [x] App_Store_Alt
+- [x] App_Store
 - [x] AppCleaner
 - [x] Apple_Music
 - [x] Atom
@@ -182,6 +182,7 @@
 - [x] Opera
 - [x] pap.er
 - [x] Paragon_NTFS_Mac
+- [x] Parallels_Desktop
 - [x] Parallels_Desktop_-_Debian_GNULinux
 - [x] Parallels_Desktop_-_Fedora
 - [x] Parallels_Desktop_-_MintLinux
@@ -197,6 +198,7 @@
 - [x] QQLive
 - [x] QQMusic
 - [x] Raindrop
+- [x] RDM
 - [x] Reddit
 - [x] Reeder
 - [x] ShadowsocksX-NG

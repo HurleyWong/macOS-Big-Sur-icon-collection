@@ -59,7 +59,7 @@ iconsur是一个为应用程序生成macOS Big Sur风格的自适应图标的命
 - [x] Android_Studio
 - [x] Anki
 - [x] AnyTrans
-- [x] App_Store_Alt
+- [x] App_Store
 - [x] AppCleaner
 - [x] Apple_Music
 - [x] Atom
@@ -204,6 +204,7 @@ iconsur是一个为应用程序生成macOS Big Sur风格的自适应图标的命
 - [x] Opera
 - [x] pap.er
 - [x] Paragon_NTFS_Mac
+- [x] Parallels_Desktop
 - [x] Parallels_Desktop_-_Debian_GNULinux
 - [x] Parallels_Desktop_-_Fedora
 - [x] Parallels_Desktop_-_MintLinux
@@ -219,6 +220,7 @@ iconsur是一个为应用程序生成macOS Big Sur风格的自适应图标的命
 - [x] QQLive
 - [x] QQMusic
 - [x] Raindrop
+- [x] RDM
 - [x] Reddit
 - [x] Reeder
 - [x] ShadowsocksX-NG
