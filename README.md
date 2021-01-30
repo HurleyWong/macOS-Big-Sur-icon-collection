@@ -1,12 +1,12 @@
 # macOS-Big-Sur-icon-collection
 
-这里是具有macOS Big Sur风格的流行应用程序的替换图标的集合。
+这里是具有 macOS Big Sur 风格的流行应用程序的替换图标的集合。
 
 ## How to replace icons
 
 ### Manual replacement
 
-下载图标集合或者您所需的图标，在Finder中点击侧边栏的「应用程序」，右键单击需要更改的应用程序，选择「显示简介」，然后将下载的.icns文件拖放到左上角的图标那替换即可（会出现一个绿色的＋号）。
+下载图标集合或者您所需的图标，在 Finder 中点击侧边栏的「应用程序」，右键单击需要更改的应用程序，选择「显示简介」，然后将下载的 .icns 文件拖放到左上角的图标那替换即可（会出现一个绿色的 ＋ 号）。
 
 ![](https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/20210104161656.png)
 
@@ -14,11 +14,11 @@
 
 对于某些尚未有支持的第三方图标的应用，就无法使用手动替换。那么，推荐使用这个开源项目：[iconsur](https://github.com/rikumi/iconsur)。
 
-iconsur是一个为应用程序生成macOS Big Sur风格的自适应图标的命令行工具。对于既存在macOS端又存在iOS端的应用，它可以通过在iOS端的App Store中搜寻对应的图标进行替换；对于不存在iOS端的应用，它也可以通过缩放、添加背景、蒙版等方式为其生成符合macOS Big Sur风格的应用图标并替换。具体操作说明请移步其文档：[README.md](https://github.com/rikumi/iconsur/blob/master/README.md)。
+iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的命令行工具。对于既存在 macOS 端又存在 iOS 端的应用，它可以通过在 iOS 端的 App Store 中搜寻对应的图标进行替换；对于不存在 iOS 端的应用，它也可以通过缩放、添加背景、蒙版等方式为其生成符合 macOS Big Sur 风格的应用图标并替换。具体操作说明请移步其文档：[README.md](https://github.com/rikumi/iconsur/blob/master/README.md)。
 
 ## List
 
-以下是目前支持的图标列表。（截止到2021.1.3）
+以下是目前支持的图标列表。（截止到 2021.1.3）
 
 - [x] 1Blocker
 - [x] 1Password
