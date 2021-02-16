@@ -54,6 +54,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] Alfred
 - [x] Amazon
 - [x] Amazon_Music
+- [x] Anaconda_Navigator
 - [x] Android_File_Transfer
 - [x] Android_Studio(New)
 - [x] Android_Studio
@@ -165,6 +166,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] LastPass
 - [x] LINE
 - [x] Magnet
+- [x] MarginNote
 - [x] Mate_Translate
 - [x] Mathematica
 - [x] MathKey
