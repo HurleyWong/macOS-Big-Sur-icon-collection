@@ -8,7 +8,7 @@
 
 下载图标集合或者您所需的图标，在 Finder 中点击侧边栏的「应用程序」，右键单击需要更改的应用程序，选择「显示简介」，然后将下载的 .icns 文件拖放到左上角的图标那替换即可（会出现一个绿色的 ＋ 号）。
 
-![](https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/20210104161656.png)
+![](https://i.loli.net/2021/02/20/mUGEZxAKbLeckSY.jpg)
 
 ### Script replacement
 
