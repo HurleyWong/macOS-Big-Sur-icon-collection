@@ -101,6 +101,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] Eagle
 - [x] Eclipse
 - [x] Electron
+- [x] Emby
 - [x] EndNote
 - [x] Eudic
 - [x] Evernote
@@ -170,6 +171,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] Mate_Translate
 - [x] Mathematica
 - [x] MathKey
+- [x] Mathpix
 - [x] Matlab
 - [x] Microsoft_Access
 - [x] Microsoft_Edge
