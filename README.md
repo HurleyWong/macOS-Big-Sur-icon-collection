@@ -18,7 +18,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 
 ## List
 
-以下是目前支持的图标列表。（截止到 2021.1.3）
+以下是目前支持的图标列表。（截止到 2021.11.27）
 
 - [x] 1Blocker
 - [x] 1Password
@@ -96,6 +96,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] Docker
 - [x] Downie
 - [x] Drafts
+- [x] draw
 - [x] Dropbox
 - [x] Duet_Display
 - [x] Eagle
@@ -139,6 +140,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] Grammarly
 - [x] HandShaker
 - [x] HazeOver
+- [x] HBuilderX
 - [x] Hyper
 - [x] iA_Writer
 - [x] iA_Writer_Dark
@@ -224,7 +226,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] QQLive
 - [x] QQMusic
 - [x] Raindrop
-- [x] RDM
+- [x] rdm
 - [x] Reddit
 - [x] Reeder
 - [x] ShadowsocksX-NG
@@ -239,6 +241,7 @@ iconsur 是一个为应用程序生成 macOS Big Sur 风格的自适应图标的
 - [x] Sourcetree
 - [x] Spark
 - [x] Spotify
+- [x] StarUML
 - [x] Steam
 - [x] Sublime_Text
 - [x] Surge
