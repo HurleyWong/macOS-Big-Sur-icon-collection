@@ -74,6 +74,7 @@
 - [x] Docker
 - [x] Downie
 - [x] Drafts
+- [x] draw
 - [x] Dropbox
 - [x] Duet_Display
 - [x] Eagle
@@ -117,6 +118,7 @@
 - [x] Grammarly
 - [x] HandShaker
 - [x] HazeOver
+- [x] HBuilderX
 - [x] Hyper
 - [x] iA_Writer
 - [x] iA_Writer_Dark
@@ -202,7 +204,7 @@
 - [x] QQLive
 - [x] QQMusic
 - [x] Raindrop
-- [x] RDM
+- [x] rdm
 - [x] Reddit
 - [x] Reeder
 - [x] ShadowsocksX-NG
@@ -217,6 +219,7 @@
 - [x] Sourcetree
 - [x] Spark
 - [x] Spotify
+- [x] StarUML
 - [x] Steam
 - [x] Sublime_Text
 - [x] Surge
